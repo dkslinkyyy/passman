@@ -10,7 +10,9 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
-
+CMakeLists.txt
+CMakePresets.json
 
 # Ignore Visual Studio related directories
 .vs/
+out/build/x64-debug
