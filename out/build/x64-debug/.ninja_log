@@ -1,0 +1,6 @@
+# ninja log v5
+7	976	7479603716075244	passman/CMakeFiles/passman.dir/passman.cpp.obj	571c3c2e28a2382b
+1670	1932	7479628765025724	passman/passman.exe	b14bce81495fbb72
+5	1670	7479628762805702	passman/CMakeFiles/passman.dir/main.cpp.obj	3cdd4749a7b35229
+10	1507	7479628761205726	passman/CMakeFiles/passman.dir/Manager.cpp.obj	4b22a8d9069c1d9a
+14	1437	7479628760495736	passman/CMakeFiles/passman.dir/FileWriter.cpp.obj	dc162eddf2f4a930
